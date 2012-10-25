@@ -15,7 +15,7 @@ Getting Started
 Adding to Your Application
 --------------------------
 
-Add the following javascript code to viewer.js:
+Add the following javascript code to viewer.js::
 
     var tools = {};
     var toolbar = GeoExt.MapPanel.guess().ownerCt.getTopToolbar();
